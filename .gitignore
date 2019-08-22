@@ -2,3 +2,6 @@ snapshots/
 PrusaSlicer.ini
 vendor/PrusaResearch.ini
 cache/
+vendor/PrusaResearch.ini
+PrusaSlicer.ini
+cache/PrusaResearch.idx
